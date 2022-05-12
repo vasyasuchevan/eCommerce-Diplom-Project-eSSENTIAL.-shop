@@ -22,7 +22,7 @@ export const sliderItems = [
 		desc: "DONT'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
 		bg: "fcf1ed",
 	}
-]
+];
 
 export const categories = [
 	{
@@ -45,4 +45,34 @@ export const categories = [
 	},
 ];
 
-export default categories;
+export const popularProducts = [
+	{
+		id: 1,
+		img: "https://optimusgang.com/wp-content/uploads/2022/03/%D0%9E%D0%93-%D1%85-%D0%9F-%D1%83%D0%BA%D1%80-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%86%D0%B2%D0%B5%D1%82%D0%B0_0001s_0001_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4.jpg"
+	},
+	{
+		id: 2,
+		img: "https://optimusgang.com/wp-content/uploads/2022/03/%D0%9E%D0%93-%D1%85-%D0%9F-%D1%83%D0%BA%D1%80-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%86%D0%B2%D0%B5%D1%82%D0%B0_0003s_0001_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4-1536x1536.jpg"
+	},
+	{
+		id: 3,
+		img: "https://optimusgang.com/wp-content/uploads/2022/03/%D0%9E%D0%93-%D1%85-%D0%9F-%D1%83%D0%BA%D1%80-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%86%D0%B2%D0%B5%D1%82%D0%B0_0002s_0001_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4-1536x1536.jpg"
+	},
+	{
+		id: 4,
+		img: 'https://optimusgang.com/wp-content/uploads/2022/03/%D0%9E%D0%93-%D1%85-%D0%9F-%D1%83%D0%BA%D1%80-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%86%D0%B2%D0%B5%D1%82%D0%B0_0000s_0001_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4-1536x1536.jpg'
+	},
+	{
+		id: 5,
+		img: 'https://optimusgang.com/wp-content/uploads/2021/04/IMG_8960.jpg'
+
+	},
+	{
+		id: 6,
+		img: 'https://optimusgang.com/wp-content/uploads/2021/04/IMG_8901.jpg'
+	},
+	{
+		id: 7,
+		img: 'https://optimusgang.com/wp-content/uploads/2021/08/IMG_5222.jpg'
+	}
+];
